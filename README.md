@@ -1,1 +1,1 @@
-Sử dụng JSP Serlet để tạo trang web
+Sử dụng JSP Servlet để tạo trang web
